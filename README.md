@@ -1,5 +1,5 @@
 # GuessGames
- This code is a number guessing game with three difficulty levels: easy, medium, and hard. Players guess a randomly generated number, and the game tracks the number of attempts. It saves the best scores, can reset scores, and displays current scores. The main menu allows mode selection and game initiation.
+ This code is a number-guessing game with three difficulty levels: easy, medium, and hard. Players guess a randomly generated number, and the game tracks the number of attempts. It saves the best scores, can reset scores, and displays current scores. The main menu allows mode selection and game initiation.
 markdown
 
 <!DOCTYPE html>
@@ -12,7 +12,7 @@ markdown
 
 <h1>Number Guessing Game</h1>
 
-<p>This is a Python-based number guessing game with three difficulty levels: Easy, Medium, and Hard. Players try to guess a randomly generated number, with the game providing hints if the guess is too high or too low. The game tracks the number of attempts and saves the best scores for each difficulty level.</p>
+<p>This is a Python-based number-guessing game with three difficulty levels: Easy, Medium, and Hard. Players try to guess a randomly generated number, with the match providing hints if the guess is too high or too low. The game tracks the number of attempts and saves the best scores for each difficulty level.</p>
 
 <h2>Features</h2>
 <ul>
@@ -80,7 +80,7 @@ markdown
 </ol>
 
 <h2>Author</h2>
-<p>This script was created by [Your Name].</p>
+<p>This script was created by Sourabh Kumar.</p>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
